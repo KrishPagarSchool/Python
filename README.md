@@ -1,4 +1,4 @@
-# Python
+# About
 A listicle of all the projects run and checked by Krish Pagar as a part of his school work.
 
 # Licence 
